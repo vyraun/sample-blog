@@ -11,6 +11,6 @@
 	<a href="{{ link | prepend: site.baseurl }}">
 		<img src="assets/test.png">
 	</a>
-	<span class="logo-prompt">{{ prompt }}</span>
+
 
 </aside>
