@@ -8,7 +8,7 @@
 		{% assign prompt = 'Back to Home' %}
 	{% endif %}
 
-	<a href="www.google.com">
+	<a href="">
 		<img src="assets/test.jpeg">
 	</a>
 
